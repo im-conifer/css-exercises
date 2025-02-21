@@ -1,0 +1,18 @@
+.pinken {
+    background-color: rgb(255, 150, 150);
+    font-family: Verdana, "DeJaVu Sans", sans-serif;
+}
+
+.embiggen {
+    font-size: 24px;
+}
+
+#big-blue {
+    color: hsl(216, 100%, 41%);
+    font-size: 36px;
+}
+
+#green-yes {
+    background-color: #8F8;
+    font-weight: bold;
+}
